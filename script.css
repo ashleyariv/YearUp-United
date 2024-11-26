@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+}
+
+article {
+    display: flex;
+}
+
+p {
+    width: 50%;
+}
+
+img {
+    width: 45%;
+    border: solid 2px black;
+    padding: 1%;
+    height: 400px; 
+}
